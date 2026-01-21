@@ -41,18 +41,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=fer-of&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
 
 <hr />
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=fer-of&icon=0&color=6" alt="Profile Visits" />
-  </a>
-</p>
 
 <h3 align="center">💰 You can help me by Donating</h3>
 <p align="center">
